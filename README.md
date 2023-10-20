@@ -1,5 +1,7 @@
 # GetUrl
 
+https://souiunogaii.hatenablog.com/entry/VMwareWorkstationPlayer16-unlocker302
+
 WindowsでMacを使うためには、VMwareやVirtualBoxなどの仮想化ソフトをインストールする必要があります。仮想マシンを作成し、その上にMac OSをインストールすることができます。ただし、Mac OSを他のハードにインストールすることはライセンス違反となる場合があります。⁶¹²³ このページには、Windows 10のパソコンでMacOSを導入する方法が詳しく説明されています。⁶
 
 ソース: Bing との会話 2023/10/20
