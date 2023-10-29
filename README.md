@@ -1,4 +1,9 @@
 # GetUrl
+Xamarin.Forms アプリアイコン(iOS,Android)の設定方法
+https://xamaui.net/set-app-icon/
+
+Xamarin.iOS のアプリケーション アイコン
+https://learn.microsoft.com/ja-jp/xamarin/ios/app-fundamentals/images-icons/app-icons?tabs=macos
 
 https://wagby.com/tutorial9/devcustomer1.html
 
