@@ -1,7 +1,9 @@
 # GetUrl
-https://shuhelohelo.hatenablog.com/entry/2020/07/06/160021
 
 Xamarin.FormsでAndroidアプリのアイコンを変更する
+https://shuhelohelo.hatenablog.com/entry/2020/07/06/160021
+
+
 Xamarin.Forms アプリアイコン(iOS,Android)の設定方法
 https://xamaui.net/set-app-icon/
 
