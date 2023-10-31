@@ -1,5 +1,8 @@
 # GetUrl
 
+パソコンPOSレジシステム Nyushukka Lite2
+https://www.vector.co.jp/soft/winnt/business/se514847.html?a8=h3s4_3t.TzW4tRjZHoNbHsdAsrrQlsOAPom4-rdi-vD.Tzs3HRFulAsu2zGPwPFmkvJA1CsOk3s47s00000007693002
+
 Xamarin.FormsでAndroidアプリのアイコンを変更する
 https://shuhelohelo.hatenablog.com/entry/2020/07/06/160021
 
