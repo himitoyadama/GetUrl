@@ -4,6 +4,9 @@
 魅力的なビジュアルを作成できます。
 https://clipdrop.co/ja
 
+「ClipDrop」の使い方
+https://tcd-theme.com/2023/06/clipdrop.html
+
 パソコンPOSレジシステム Nyushukka Lite2
 https://www.vector.co.jp/soft/winnt/business/se514847.html?a8=h3s4_3t.TzW4tRjZHoNbHsdAsrrQlsOAPom4-rdi-vD.Tzs3HRFulAsu2zGPwPFmkvJA1CsOk3s47s00000007693002
 
