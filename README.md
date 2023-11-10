@@ -1,9 +1,6 @@
 # GetUrl
-
-
-
-パソコンPOSレジシステム Nyushukka Lite2
-https://www.vector.co.jp/soft/winnt/business/se514847.html?a8=h3s4_3t.TzW4tRjZHoNbHsdAsrrQlsOAPom4-rdi-vD.Tzs3HRFulAsu2zGPwPFmkvJA1CsOk3s47s00000007693002
+Windows（WSL2）でMacOSXを使った開発環境を構築
+https://qiita.com/ttnt1006/items/a95512ee6fa1bacdd2d5
 
 
 Xamarin.Forms アプリアイコン(iOS,Android)の設定方法
