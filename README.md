@@ -1,4 +1,7 @@
 # GetUrl
+【凄いアプリ！】今話題のNotionが便利すぎる！Taiki流使い方をご紹介します！
+https://www.youtube.com/watch?v=97u_MTR3IAQ
+
 Windows（WSL2）でMacOSXを使った開発環境を構築
 https://qiita.com/ttnt1006/items/a95512ee6fa1bacdd2d5
 
