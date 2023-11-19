@@ -1,4 +1,7 @@
 # GetUrl
+JSONとは？8分でわかるJSON形式データの使い方入門
+https://m.youtube.com/watch?v=9LNM5NIJbDQ
+
 【凄いアプリ！】今話題のNotionが便利すぎる！Taiki流使い方をご紹介します！
 https://www.youtube.com/watch?v=97u_MTR3IAQ
 
