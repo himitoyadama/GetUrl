@@ -1,4 +1,7 @@
 # GetUrl
+ポイントシステムとは？
+https://meetsmore.com/product-services/sales-force-automation/media/122756#:~:text=%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A8%E3%81%AF%E3%80%8C%E5%95%86%E5%93%81,%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82
+
 JSONとは？8分でわかるJSON形式データの使い方入門
 https://m.youtube.com/watch?v=9LNM5NIJbDQ
 
