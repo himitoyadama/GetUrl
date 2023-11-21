@@ -1,4 +1,7 @@
 # GetUrl
+Notionデータベース初級編🔰 公認コンサルタントが徹底解説。
+https://m.youtube.com/watch?time_continue=2&v=iSCECFq1jRU&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Dja-JP%26ram_mb%3D3463%26aos%3D9%26ampcct%3D6045%26lns_as%3D1%26qsubts%3D1700547603981%26cs%3D0%26q%3DNotion%25E3%2583%2587%25E3%2583%25&source_ve_path=Mjg2NjY&feature=emb_logo
+
 PointSystem
 https://github.com/ChrisSch-dev/PointSystem/commits?author=ChrisSch-dev
 
