@@ -1,4 +1,8 @@
 # GetUrl
+
+Express＆SQlite3＃2-1
+https://www.youtube.com/watch?v=Be-1U5Oj_jM
+
 Express＆SQlite3＃01
 https://www.youtube.com/watch?v=zy11QSO8Tek
 
