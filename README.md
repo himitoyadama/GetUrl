@@ -1,4 +1,7 @@
 # GetUrl
+Express＆SQlite3＃01
+https://www.youtube.com/watch?v=zy11QSO8Tek
+
 Express のアプリケーション生成プログラム
 https://expressjs.com/ja/starter/generator.html
 
