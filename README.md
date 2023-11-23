@@ -1,4 +1,6 @@
 # GetUrl
+Notionで顧客管理とタスク管理を紐づける！(テンプレートあり)
+https://m.youtube.com/watch?v=lxzEM_2TIis
 
 Express＆SQlite3＃2-1
 https://www.youtube.com/watch?v=Be-1U5Oj_jM
