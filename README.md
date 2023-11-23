@@ -1,4 +1,7 @@
 # GetUrl
+Notionでフォームを作成する方法
+https://m.youtube.com/watch?v=OG74uMYbw4I
+
 Notionで顧客管理とタスク管理を紐づける！(テンプレートあり)
 https://m.youtube.com/watch?v=lxzEM_2TIis
 
