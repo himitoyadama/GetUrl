@@ -1,4 +1,7 @@
 # GetUrl
+ラベル屋さん10で簡単ポイントカード作成
+https://m.youtube.com/watch?v=AUYmKIDs9ns&embeds_referring_euri=https%3A%2F%2Fnote.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
+
 ラベル屋さん10で簡単QRコード作成
 https://m.youtube.com/watch?v=f_HGPTJNW_8&feature=youtu.be
 
