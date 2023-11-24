@@ -1,4 +1,8 @@
 # GetUrl
+
+【23H2】Windows11の大型アップデート23H2を古いパソコンに適応させる方法！【裏技！】
+https://www.youtube.com/watch?v=MQONhIsY5gM
+
 【SQLite】DB Browser for SQLite CSVのインポート方法
 https://shigeblog221.com/db-browser-for-sqlite-csvimport/
 
