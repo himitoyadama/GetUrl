@@ -1,4 +1,7 @@
 # GetUrl
+【SQLite】DB Browser for SQLite CSVのインポート方法
+https://shigeblog221.com/db-browser-for-sqlite-csvimport/
+
 Notionでフォームを作成する方法
 https://m.youtube.com/watch?v=OG74uMYbw4I
 
