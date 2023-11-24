@@ -1,4 +1,6 @@
 # GetUrl
+ラベル屋さん10で簡単QRコード作成
+https://m.youtube.com/watch?v=f_HGPTJNW_8&feature=youtu.be
 
 【23H2】Windows11の大型アップデート23H2を古いパソコンに適応させる方法！【裏技！】
 https://www.youtube.com/watch?v=MQONhIsY5gM
