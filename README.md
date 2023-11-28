@@ -1,4 +1,6 @@
 # GetUrl
+PHPでPDOを使ってMySQLに接続する方法！
+https://blog.codecamp.jp/programming-php-pdo-mysql-1
 
 【PHP】ログイン機能作ってみた【Webアプリ】
 https://www.youtube.com/watch?v=5UqKC0sKK0g
