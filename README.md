@@ -1,4 +1,7 @@
 # GetUrl
+PHP + MySQLでアプリを作成してみた【Blogアプリ】
+https://qiita.com/kanfutrooper/items/2a8f27287d9bee3341a5
+
 Windows/XAMPP/phpMyAdminでSQLを実行しよう （SQL入門コースサポート）
 https://m.youtube.com/watch?v=aT4eGB4dXdM
 
