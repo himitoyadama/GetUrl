@@ -1,4 +1,7 @@
 # GetUrl
+iOS シミュレーターと Android エミュレーターからローカル Web サービスに接続する
+https://learn.microsoft.com/ja-jp/xamarin/cross-platform/deploy-test/connect-to-local-web-services
+
 SQL使わずにデータベース操作～Eloquent～ 
 https://m.youtube.com/watch?v=zkNCXvDj4GM
 
