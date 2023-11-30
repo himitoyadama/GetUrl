@@ -1,4 +1,7 @@
 # GetUrl
+Windows/XAMPP/phpMyAdminでSQLを実行しよう （SQL入門コースサポート）
+https://m.youtube.com/watch?v=aT4eGB4dXdM
+
 PHPでPDOを使ってMySQLに接続する方法！
 https://blog.codecamp.jp/programming-php-pdo-mysql-1
 
