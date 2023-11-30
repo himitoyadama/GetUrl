@@ -1,4 +1,7 @@
 # GetUrl
+SQL Serverと.NET Coreを使ってWebアプリを作成してみた。【MVCモデル】【C#】
+https://m.youtube.com/watch?v=_HPVMLPlrX0
+
 PHP + MySQLでアプリを作成してみた【Blogアプリ】
 https://qiita.com/kanfutrooper/items/2a8f27287d9bee3341a5
 
