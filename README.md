@@ -1,4 +1,7 @@
 # GetUrl
+SQL使わずにデータベース操作～Eloquent～ 
+https://m.youtube.com/watch?v=zkNCXvDj4GM
+
 SQL Serverと.NET Coreを使ってWebアプリを作成してみた。【MVCモデル】【C#】
 https://m.youtube.com/watch?v=_HPVMLPlrX0
 
