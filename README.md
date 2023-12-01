@@ -1,4 +1,7 @@
 # GetUrl
+React Nativeで楽に作るスマホアプリ開発入門（基本編）
+https://qiita.com/teradonburi/items/355a20e6d32bb719ef76
+
 Firebase Databaseを解説
 https://qiita.com/watataku8911/items/ac040f4671c0f9a62bd4
 
