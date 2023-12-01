@@ -1,4 +1,7 @@
 # GetUrl
+Maui(Xamarin)でiPhoneやAndroidの実機からASP.NETのlocalhostへアクセス可能にする方法
+https://tech.tinybetter.com/Article/8d0bde62-f4c1-86f3-82d1-3a05d44a57bf/View
+
 iOS シミュレーターと Android エミュレーターからローカル Web サービスに接続する
 https://learn.microsoft.com/ja-jp/xamarin/cross-platform/deploy-test/connect-to-local-web-services
 
