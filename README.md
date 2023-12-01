@@ -1,4 +1,7 @@
 # GetUrl
+Firebase Databaseを解説
+https://qiita.com/watataku8911/items/ac040f4671c0f9a62bd4
+
 User Registration with PHP and MYSQL in React Native || Insert Record Example
 https://m.youtube.com/watch?v=xo_ZRD_IAp0
 
