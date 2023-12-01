@@ -1,4 +1,7 @@
 # GetUrl
+C#でHTTPSサーバ(Ver. HttpListener)
+https://qiita.com/washikawau/items/bfcd8babcffab30e6d26
+
 【C#】HttpListenerで簡易サーバー作成する
 https://qiita.com/d01tsumath/items/73825b19361f84d7b589
 
