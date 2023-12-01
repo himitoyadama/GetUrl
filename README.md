@@ -1,4 +1,7 @@
 # GetUrl
+【C#】HttpListenerで簡易サーバー作成する
+https://qiita.com/d01tsumath/items/73825b19361f84d7b589
+
 Maui(Xamarin)でiPhoneやAndroidの実機からASP.NETのlocalhostへアクセス可能にする方法
 https://tech.tinybetter.com/Article/8d0bde62-f4c1-86f3-82d1-3a05d44a57bf/View
 
