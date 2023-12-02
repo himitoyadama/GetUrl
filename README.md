@@ -1,4 +1,7 @@
 # GetUrl
+Vinculando Xamarin Forms con MySQL mediante PHP
+https://m.youtube.com/watch?v=G6S1n3zT4S4
+
 React Nativeで楽に作るスマホアプリ開発入門（基本編）
 https://qiita.com/teradonburi/items/355a20e6d32bb719ef76
 
