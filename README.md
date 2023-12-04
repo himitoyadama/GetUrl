@@ -1,4 +1,10 @@
 # GetUrl
+Xamarin Forms. QR Code & Barcode Scanner Integrate with MySQL
+https://www.youtube.com/watch?v=XiTYCJD-V2Y&list=PLXfMTqJq8hDHg9o5LY3dHfoCeUAiYU-MG&index=12
+
+Xamarin Form. Inserting Data to Mysql Table.
+https://m.youtube.com/watch?v=vjiFPqB14yE
+
 【C#】MySQLに接続して直接SELECT文を実行する
 https://hirahira.blog/csharp-mysql-connect/
 
@@ -10,12 +16,6 @@ https://m.youtube.com/watch?v=LC23jNCUpJ8
 
 Visual StudioにMySQLを接続する方法【画像で分かりやすく解説】
 https://masa7blog.com/visual-studio-mysql-connection/
-
-Xamarin Forms. QR Code & Barcode Scanner Integrate with MySQL
-https://www.youtube.com/watch?v=XiTYCJD-V2Y&list=PLXfMTqJq8hDHg9o5LY3dHfoCeUAiYU-MG&index=12
-
-Xamarin Form. Inserting Data to Mysql Table.
-https://m.youtube.com/watch?v=vjiFPqB14yE
 
 Vinculando Xamarin Forms con MySQL mediante PHP
 https://m.youtube.com/watch?v=G6S1n3zT4S4
