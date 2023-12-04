@@ -1,4 +1,7 @@
 # GetUrl
+Xamarin C# com Msyql - Aula 01 - C# Mobile com Mysql
+https://m.youtube.com/watch?v=LC23jNCUpJ8
+
 Visual StudioにMySQLを接続する方法【画像で分かりやすく解説】
 https://masa7blog.com/visual-studio-mysql-connection/
 
