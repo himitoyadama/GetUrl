@@ -1,4 +1,7 @@
 # GetUrl
+Visual StudioにMySQLを接続する方法【画像で分かりやすく解説】
+https://masa7blog.com/visual-studio-mysql-connection/
+
 Xamarin Forms. QR Code & Barcode Scanner Integrate with MySQL
 https://www.youtube.com/watch?v=XiTYCJD-V2Y&list=PLXfMTqJq8hDHg9o5LY3dHfoCeUAiYU-MG&index=12
 
