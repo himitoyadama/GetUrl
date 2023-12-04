@@ -1,4 +1,7 @@
 # GetUrl
+【C#】MySQLに接続して直接SELECT文を実行する
+https://hirahira.blog/csharp-mysql-connect/
+
 Create a Login Page using Xamarin Forms For Beginners
 https://www.youtube.com/watch?v=om-FS2fDlus
 
