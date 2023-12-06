@@ -1,4 +1,7 @@
 # GetUrl
+DATA INSERTION IN MYSQL IN C# VISUAL STUDIO 2022 | C# SAVE DATA IN MYSQL DATABASE
+https://www.youtube.com/watch?v=mWGUcasaQcE
+
 Xamarin Forms Create Login Page With MySQL DB #xamarinformsindonesia #mysqlconnector
 https://m.youtube.com/watch?v=09xYAiPXZD8
 
