@@ -1,5 +1,6 @@
 # GetUrl
-
+NServiceKit OrmLite/データベースに接続する
+https://monobook.org/wiki/NServiceKit_OrmLite/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B
 
 からやま
 https://www.arclandservice.co.jp/karayama/
