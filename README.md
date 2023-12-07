@@ -1,4 +1,7 @@
 # GetUrl
+System.Numerics.Vectors.dll ダウンロードして修復：DLLエラーのトラブルシューティング
+https://www.exefiles.com/ja/dll/system-numerics-vectors-dll/
+
 からやま
 https://www.arclandservice.co.jp/karayama/
 
