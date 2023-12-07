@@ -1,4 +1,7 @@
 # GetUrl
+hostsファイルの書き換え
+https://jcity.zendesk.com/hc/ja/articles/4402694559769-hosts%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88
+
 Xamarin Form. Koneksi ke Mysql Server (Connection String)
 https://m.youtube.com/watch?v=-iwOZR4Qpzk
 
