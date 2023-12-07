@@ -1,4 +1,7 @@
 # GetUrl
+phpmyadminからmySQLサーバーのIPアドレスを確認する方法
+https://www.web-dev-qa-db-ja.com/ja/mysql/phpmyadmin%E3%81%8B%E3%82%89mysql%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AEip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/972644328/
+
 hostsファイルの書き換え
 https://jcity.zendesk.com/hc/ja/articles/4402694559769-hosts%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88
 
