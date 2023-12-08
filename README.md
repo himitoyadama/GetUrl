@@ -1,4 +1,7 @@
 # GetUrl
+別サーバの MySQLにアクセスする設定・ファイアウォール設定、ポート設定、MySQL設定、テーブルへ権限付与の方法
+https://blog.s-giken.net/304.html
+
 MySQL サーバーに外部(localhost以外)から接続する方法
 https://loumo.jp/archives/24590
 
