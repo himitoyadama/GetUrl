@@ -1,4 +1,7 @@
 # GetUrl
+MySQL サーバーに外部(localhost以外)から接続する方法
+https://loumo.jp/archives/24590
+
 MySQL で特定の IP アドレスからのアクセスを許可する
 https://qiita.com/u-dai/items/b360a337b5001778699e
 
