@@ -1,4 +1,7 @@
 # GetUrl
+SQL Server への接続を確立している間に
+https://learn.microsoft.com/ja-jp/troubleshoot/sql/database-engine/connect/network-related-or-instance-specific-error-occurred-while-establishing-connection
+
 C# Connection String - Koneksi ke MySQL Server
 https://m.youtube.com/watch?v=qDW8tpCy6t4
 
