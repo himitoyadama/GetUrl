@@ -1,4 +1,7 @@
 # GetUrl
+C# Connection String - Koneksi ke MySQL Server
+https://m.youtube.com/watch?v=qDW8tpCy6t4
+
 phpmyadminからmySQLサーバーのIPアドレスを確認する方法
 https://www.web-dev-qa-db-ja.com/ja/mysql/phpmyadmin%E3%81%8B%E3%82%89mysql%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AEip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/972644328/
 
