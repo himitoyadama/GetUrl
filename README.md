@@ -1,4 +1,6 @@
 # GetUrl
+MySQL で特定の IP アドレスからのアクセスを許可する
+https://qiita.com/u-dai/items/b360a337b5001778699e
 
 Xamarin Form. Koneksi ke Mysql Server (Connection String) https://m.youtube.com/watch?v=-iwOZR4Qpzk
 
