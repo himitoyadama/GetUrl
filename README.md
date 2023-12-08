@@ -1,4 +1,7 @@
 # GetUrl
+
+Xamarin Form. Koneksi ke Mysql Server (Connection String) https://m.youtube.com/watch?v=-iwOZR4Qpzk
+
 インターネットの仕組み入門～IPアドレス・DNS・MACアドレス【高校情報１・基本情報技術者・ITパスポート】高校情報Ⅰ教科書完全準拠版
 https://m.youtube.com/watch?v=A11m1lWiUrs
 
