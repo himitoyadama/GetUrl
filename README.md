@@ -1,4 +1,7 @@
 # GetUrl
+インターネットの仕組み入門～IPアドレス・DNS・MACアドレス【高校情報１・基本情報技術者・ITパスポート】高校情報Ⅰ教科書完全準拠版
+https://m.youtube.com/watch?v=A11m1lWiUrs
+
 クライアントの IP アドレス確認
 https://rinsaka.com/virtual-dev-ubu22/23-5-remote.html
 
