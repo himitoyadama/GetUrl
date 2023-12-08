@@ -1,4 +1,7 @@
 # GetUrl
+クライアントの IP アドレス確認
+https://rinsaka.com/virtual-dev-ubu22/23-5-remote.html
+
 ［ADO.NET］MySQLデータベースに接続するには？
 https://atmarkit.itmedia.co.jp/fdotnet/dotnettips/789adomysql/adomysql.html#:~:text=%E3%81%BE%E3%81%9FConnector%2FNet%E3%81%AF%E3%80%81MySQL,%E3%80%8D%E3%81%A7%E3%81%AF%E5%95%8F%E9%A1%8C%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%89%E3%80%82
 
