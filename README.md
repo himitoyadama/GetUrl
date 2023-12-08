@@ -1,4 +1,7 @@
 # GetUrl
+［ADO.NET］MySQLデータベースに接続するには？
+https://atmarkit.itmedia.co.jp/fdotnet/dotnettips/789adomysql/adomysql.html#:~:text=%E3%81%BE%E3%81%9FConnector%2FNet%E3%81%AF%E3%80%81MySQL,%E3%80%8D%E3%81%A7%E3%81%AF%E5%95%8F%E9%A1%8C%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%89%E3%80%82
+
 SQL Server への接続を確立している間に
 https://learn.microsoft.com/ja-jp/troubleshoot/sql/database-engine/connect/network-related-or-instance-specific-error-occurred-while-establishing-connection
 
