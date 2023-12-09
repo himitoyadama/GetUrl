@@ -1,4 +1,7 @@
 # GetUrl
+Conectar aplicación Xamarin.Android a BD MySQL Online
+https://scrapywar.com/conectar-aplicacion-xamarin-android-a-bd-mysql-online/
+
 第 17 章 レプリケーション
 https://dev.mysql.com/doc/refman/8.0/ja/replication.html
 
