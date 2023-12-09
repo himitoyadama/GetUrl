@@ -1,4 +1,7 @@
 # GetUrl
+第 17 章 レプリケーション
+https://dev.mysql.com/doc/refman/8.0/ja/replication.html
+
 Windows10 アプリごとにファイアウォールの設定を変更する方法
 https://m.youtube.com/watch?v=UNX0QHM9TVY
 
