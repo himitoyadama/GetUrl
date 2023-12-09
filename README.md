@@ -1,4 +1,7 @@
 # GetUrl
+Windows10 アプリごとにファイアウォールの設定を変更する方法
+https://m.youtube.com/watch?v=UNX0QHM9TVY
+
 別サーバの MySQLにアクセスする設定・ファイアウォール設定、ポート設定、MySQL設定、テーブルへ権限付与の方法
 https://blog.s-giken.net/304.html
 
