@@ -1,4 +1,7 @@
 # GetUrl
+Host xxx is not allowed to connect to this MySQL server への対処法
+https://junblog11.com/host-xxx-is-not-allowed-to-connect-to-this-mysql-server-%E3%81%B8%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95/
+
 Conectar aplicación Xamarin.Android a BD MySQL Online
 https://scrapywar.com/conectar-aplicacion-xamarin-android-a-bd-mysql-online/
 
