@@ -1,4 +1,7 @@
 # GetUrl
+ 起動時に「クラスライブラリの出力タイプを持つプロジェクトを直接起動することはできません」が表示
+https://dk521123.hatenablog.com/entry/31803551
+
 Host xxx is not allowed to connect to this MySQL server への対処法
 https://junblog11.com/host-xxx-is-not-allowed-to-connect-to-this-mysql-server-%E3%81%B8%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95/
 
