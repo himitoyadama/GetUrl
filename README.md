@@ -1,4 +1,7 @@
 # GetUrl
+Xamarin and Maui Sql Server (SSMS) Connection
+https://www.youtube.com/watch?v=xNmIdFjXzl4&t=21s
+
 SQLiteデータベースがWebアプリでも使える！
 https://codezine.jp/article/detail/11840
 
