@@ -1,4 +1,7 @@
 # GetUrl
+MySQL Connector Arduino
+https://www.arduino.cc/reference/en/libraries/mysql-connector-arduino/
+
  起動時に「クラスライブラリの出力タイプを持つプロジェクトを直接起動することはできません」が表示
 https://dk521123.hatenablog.com/entry/31803551
 
