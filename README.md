@@ -1,4 +1,7 @@
 # GetUrl
+SQLiteデータベースがWebアプリでも使える！
+https://codezine.jp/article/detail/11840
+
 MySQLサーバーは公開されていますか？
 https://ja.remote.it/resources/dev-to-mysql-open-public
 
