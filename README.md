@@ -1,4 +1,7 @@
 # GetUrl
+C# .NET MAUIで1から始めるスマホアプリ開発入門 ～2.開発環境の設定～
+https://www.youtube.com/watch?v=1UTe4pHkIbo
+
 .NET MAUIでラーメンタイマーアプリを作ろう
 https://codezine.jp/article/detail/16002
 
