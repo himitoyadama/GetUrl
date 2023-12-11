@@ -1,4 +1,7 @@
 # GetUrl
+第一回　SQL Server Management Studioの使い方
+https://m.youtube.com/watch?v=VQL_lwWoE08
+
 Xamarin and Maui Sql Server (SSMS) Connection
 https://www.youtube.com/watch?v=xNmIdFjXzl4&t=21s
 
