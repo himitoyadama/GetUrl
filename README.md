@@ -1,4 +1,7 @@
 # GetUrl
+.NET MAUIでラーメンタイマーアプリを作ろう
+https://codezine.jp/article/detail/16002
+
 第一回　SQL Server Management Studioの使い方
 https://m.youtube.com/watch?v=VQL_lwWoE08
 
