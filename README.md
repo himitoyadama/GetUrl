@@ -1,4 +1,7 @@
 # GetUrl
+SQL Server の既定のネットワーク プロトコル構成
+https://learn.microsoft.com/ja-jp/sql/database-engine/configure-windows/default-sql-server-network-protocol-configuration?view=sql-server-ver16
+
 C# .NET MAUIで1から始めるスマホアプリ開発入門 ～5-1.コードの実装, 簡単なアプリの作成～
 https://www.youtube.com/watch?v=FuMj1mBg7Ks&list=PLg6Ifb06fGig9NQy_5eU9sB7yuMagsCI3&index=4
 
