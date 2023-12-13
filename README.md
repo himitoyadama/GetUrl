@@ -1,4 +1,7 @@
 # GetUrl
+SQL Server 構成マネージャー
+https://learn.microsoft.com/ja-jp/sql/relational-databases/sql-server-configuration-manager?view=sql-server-ver16
+
 SQL Server 2019 Express with Advanced Servicesの設定
 https://pleasanter.org/manual/install-sql-server2019-express
 
