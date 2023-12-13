@@ -1,4 +1,8 @@
 # GetUrl
+
+Xamarin Forms SSMS CRUD Operations
+https://www.youtube.com/watch?v=_zN_Z9rNIiU
+
 SQL Server 構成マネージャー
 https://learn.microsoft.com/ja-jp/sql/relational-databases/sql-server-configuration-manager?view=sql-server-ver16
 
