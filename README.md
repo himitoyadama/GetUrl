@@ -1,4 +1,7 @@
 # GetUrl
+SQL Server 2019 Express with Advanced Servicesの設定
+https://pleasanter.org/manual/install-sql-server2019-express
+
 SQL Server の既定のネットワーク プロトコル構成
 https://learn.microsoft.com/ja-jp/sql/database-engine/configure-windows/default-sql-server-network-protocol-configuration?view=sql-server-ver16
 
