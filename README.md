@@ -1,4 +1,8 @@
 # GetUrl
+
+.NET MAUI Login - Part 1 | Ep:8
+https://www.youtube.com/watch?v=z4_EQ2wM6No
+
 ターゲット.NET Frameworkエラーのトラブルシューティング
 https://learn.microsoft.com/ja-jp/troubleshoot/developer/visualstudio/project-build/troubleshooting-dotnet-framework-targeting-errors
 
