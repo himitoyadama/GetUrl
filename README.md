@@ -1,4 +1,6 @@
 # GetUrl
+.NET MAUI チュートリアル
+https://dotnet.microsoft.com/ja-jp/learn/maui/first-app-tutorial/intro
 
 Xamarin Forms SSMS CRUD Operations
 https://www.youtube.com/watch?v=_zN_Z9rNIiU
