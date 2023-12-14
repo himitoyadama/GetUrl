@@ -1,4 +1,6 @@
 # GetUrl
+ターゲット.NET Frameworkエラーのトラブルシューティング
+https://learn.microsoft.com/ja-jp/troubleshoot/developer/visualstudio/project-build/troubleshooting-dotnet-framework-targeting-errors
 
 .NET MAUI UI Challenge # 5 - Food Delivery App
 https://www.youtube.com/watch?v=lepymVqrqYw
