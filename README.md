@@ -1,4 +1,6 @@
 # GetUrl
+Geminiを使うためには
+https://nuco.co.jp/blog/article/8PydVrsb
 
 .NET MAUI Login - Part 1 | Ep:8
 https://www.youtube.com/watch?v=z4_EQ2wM6No
