@@ -1,4 +1,7 @@
 # GetUrl
+【リモートワーク求人の最新情報】在宅勤務しづらい仕事は1%も在宅ワークができない...【テレワークが向いている人・向かない人】
+https://m.youtube.com/watch?v=QiDWxGDfaAY
+
 Geminiを使うためには
 https://nuco.co.jp/blog/article/8PydVrsb
 
