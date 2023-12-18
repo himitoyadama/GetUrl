@@ -1,4 +1,7 @@
 # GetUrl
+VirtualBoxの使い方
+https://www.youtube.com/watch?v=Gco0jUDp8WI
+
 【リモートワーク求人の最新情報】在宅勤務しづらい仕事は1%も在宅ワークができない...【テレワークが向いている人・向かない人】
 https://m.youtube.com/watch?v=QiDWxGDfaAY
 
