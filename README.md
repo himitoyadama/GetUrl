@@ -1,4 +1,7 @@
 # GetUrl
+Microsoft SQL Server Express with Visual Studio 2019 (Download & Install)
+https://www.youtube.com/watch?v=D2nAwLcBsvc&list=PLXLkA7FAishqDcbZhq5U-mEsSOEcRaJIg
+
 VirtualBoxの使い方
 https://www.youtube.com/watch?v=Gco0jUDp8WI
 
