@@ -1,4 +1,7 @@
 # GetUrl
+ADO.NET Entity Framework データ プロバイダー
+https://www.agtech.co.jp/products/actian/docs_portal/Zen/11.3/index.html#page/Data%2520Provider%2520for%2520.NET%2520Guide%2Fpsqldotntty.htm%23ww260244
+
 Microsoft SQL Server Express with Visual Studio 2019 (Download & Install)
 https://www.youtube.com/watch?v=D2nAwLcBsvc&list=PLXLkA7FAishqDcbZhq5U-mEsSOEcRaJIg
 
