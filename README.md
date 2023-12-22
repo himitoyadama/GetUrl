@@ -1,4 +1,7 @@
 # GetUrl
+SQL Serverへリモート接続するための設定
+https://johobase.com/sqlserver-remote-connection-settings/
+
 Windows11に.NETFramework 2.0、3.0、および3.5をインストールする方法[チュートリアル]
 https://m.youtube.com/watch?v=zp6cbf2-gqI
 
