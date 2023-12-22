@@ -1,4 +1,7 @@
 # GetUrl
+【WindowsServer】「.NET Framework 3.5 Features」がインストールできない場合の対処方法とは？？
+https://m.youtube.com/watch?v=8-pV_W0eDzQ
+
 .NET Framework 4.5 のダウンロードとインストール　フリーソフト、無料ソフトならbyはっしー
 https://m.youtube.com/watch?v=4G-Jys0uUQ4
 
