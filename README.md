@@ -1,4 +1,7 @@
 # GetUrl
+【PHP初級】画像データをDBに保存！ ~画像アップロード機能を作る~ #04
+https://m.youtube.com/watch?v=zl2MWEzz-sY
+
 SQL Serverへリモート接続するための設定
 https://johobase.com/sqlserver-remote-connection-settings/
 
