@@ -1,4 +1,7 @@
 # GetUrl
+.NET Framework 4.5 のダウンロードとインストール　フリーソフト、無料ソフトならbyはっしー
+https://m.youtube.com/watch?v=4G-Jys0uUQ4
+
 ADO.NET Entity Framework データ プロバイダー
 https://www.agtech.co.jp/products/actian/docs_portal/Zen/11.3/index.html#page/Data%2520Provider%2520for%2520.NET%2520Guide%2Fpsqldotntty.htm%23ww260244
 
