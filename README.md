@@ -1,4 +1,7 @@
 # GetUrl
+Windows11に.NETFramework 2.0、3.0、および3.5をインストールする方法[チュートリアル]
+https://m.youtube.com/watch?v=zp6cbf2-gqI
+
 【WindowsServer】「.NET Framework 3.5 Features」がインストールできない場合の対処方法とは？？
 https://m.youtube.com/watch?v=8-pV_W0eDzQ
 
