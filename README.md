@@ -1,4 +1,7 @@
 # GetUrl
+PHP開発者から見る FileMaker Data API の有効活用法
+https://support.claris.com/s/article/PHP%E9%96%8B%E7%99%BA%E8%80%85%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B-FileMaker-Data-API-%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B4%BB%E7%94%A8%E6%B3%95?language=ja
+
 PHP Web 公開設定
 https://help.claris.com/archive/help/15/fms/ja/index.html#page/fms/config_webpub_php.html
 
