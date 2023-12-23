@@ -1,4 +1,7 @@
 # GetUrl
+PHP Web 公開設定
+https://help.claris.com/archive/help/15/fms/ja/index.html#page/fms/config_webpub_php.html
+
 【PHP初級】画像データをDBに保存！ ~画像アップロード機能を作る~ #04
 https://m.youtube.com/watch?v=zl2MWEzz-sY
 
