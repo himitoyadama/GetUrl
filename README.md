@@ -1,4 +1,7 @@
 # GetUrl
+PHPでAPI作成
+https://qiita.com/tyatya_maruko/items/1cda7b365e54771da6ac
+
 Postmanの無料ダウンロード
 https://apidog.com/jp/blog/postman-free-download-install/
 
