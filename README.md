@@ -1,4 +1,7 @@
 # GetUrl
+Postmanの無料ダウンロード
+https://apidog.com/jp/blog/postman-free-download-install/
+
 【Postman入門】RestAPIテストで必須なツールのPostmanの使い方を基礎からマスターしよう！
 https://m.youtube.com/watch?v=Z6-jgPbiX1E
 
