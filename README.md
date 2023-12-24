@@ -1,4 +1,7 @@
 # GetUrl
+【Postman】基本的な使い方を解説します
+https://www.tairaengineer-note.com/postman-how-to-use/
+
 PHPでAPI作成
 https://qiita.com/tyatya_maruko/items/1cda7b365e54771da6ac
 
