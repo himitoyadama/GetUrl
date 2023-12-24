@@ -1,4 +1,7 @@
 # GetUrl
+Laravelをインストールするやり方を解説
+https://www.tairaengineer-note.com/laravel-install-for-windows11/
+
 【Postman】基本的な使い方を解説します
 https://www.tairaengineer-note.com/postman-how-to-use/
 
