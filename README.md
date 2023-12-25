@@ -2,14 +2,15 @@
 【初心者】はじめてのPostman（ポストマン）入門。HTTP通信やREST APIの基礎を学び、APIデバッグ手法の基礎を学ぼう
 https://m.youtube.com/watch?v=O8ZKsGpio7w
 
+HTTPリクエストメソッドまとめ
+https://qiita.com/morikuma709/items/956d7c58908cb481d7e8
+
 Claris FileMaker Server 2023 インストール　はじめの一歩　Windows / Mac 編
 https://m.youtube.com/watch?v=AphZPC3CCjY
 
 FileMaker API for PHP を利用する準備（インストール）
 https://qiita.com/corselia/items/b30927d9fb2d27264b3e
 
-Laravelをインストールするやり方を解説
-https://www.tairaengineer-note.com/laravel-install-for-windows11/
 
 【Postman】基本的な使い方を解説します
 https://www.tairaengineer-note.com/postman-how-to-use/
