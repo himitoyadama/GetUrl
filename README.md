@@ -1,4 +1,7 @@
 # GetUrl
+FileMaker API for PHP を利用する準備（インストール）
+https://qiita.com/corselia/items/b30927d9fb2d27264b3e
+
 Laravelをインストールするやり方を解説
 https://www.tairaengineer-note.com/laravel-install-for-windows11/
 
