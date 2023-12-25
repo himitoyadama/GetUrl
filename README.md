@@ -1,4 +1,7 @@
 # GetUrl
+【2023最新】Postmanの驚きの新機能とAPIテスト手法を紹介します！
+https://www.youtube.com/watch?v=a9gFPWrDky0
+
 【初心者】はじめてのPostman（ポストマン）入門。HTTP通信やREST APIの基礎を学び、APIデバッグ手法の基礎を学ぼう
 https://m.youtube.com/watch?v=O8ZKsGpio7w
 
