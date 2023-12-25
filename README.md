@@ -1,4 +1,7 @@
 # GetUrl
+【初心者】はじめてのPostman（ポストマン）入門。HTTP通信やREST APIの基礎を学び、APIデバッグ手法の基礎を学ぼう
+https://m.youtube.com/watch?v=O8ZKsGpio7w
+
 Claris FileMaker Server 2023 インストール　はじめの一歩　Windows / Mac 編
 https://m.youtube.com/watch?v=AphZPC3CCjY
 
