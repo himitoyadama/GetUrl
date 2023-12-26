@@ -1,4 +1,7 @@
 # GetUrl
+API開発・テスト便利ツール Postmanの使い方メモ
+https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1
+
 【2023最新】Postmanの驚きの新機能とAPIテスト手法を紹介します！
 https://www.youtube.com/watch?v=a9gFPWrDky0
 
