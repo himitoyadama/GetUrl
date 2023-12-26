@@ -1,4 +1,7 @@
 # GetUrl
+自社 API の Postman Collection を外部公開して社内外の開発者の生産性をあげていく
+https://qiita.com/jrsyo/items/302b76a40ddc4a695900
+
 PHP REST API Tutorial (Step By Step) 5 - Using Postman for API testing
 https://m.youtube.com/watch?v=R6ooI2_OaAk
 
