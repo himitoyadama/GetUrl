@@ -1,4 +1,7 @@
 # GetUrl
+PHP REST API Tutorial (Step By Step) 5 - Using Postman for API testing
+https://m.youtube.com/watch?v=R6ooI2_OaAk
+
 API開発・テスト便利ツール Postmanの使い方メモ
 https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1
 
