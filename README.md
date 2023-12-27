@@ -1,4 +1,7 @@
 # GetUrl
+初めてのNode.js入門！環境構築からWebサーバーを作ってみよう！
+https://www.youtube.com/watch?v=nSXnif14lVo
+
 LibreOfficeの使い方｜ダウンロードからCalcの基本操作
 https://m.youtube.com/watch?v=E6sD6BGuc7M
 
