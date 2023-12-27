@@ -1,4 +1,7 @@
 # GetUrl
+LibreOffice Calc
+https://m.youtube.com/watch?v=L_t4g32i0B4&t=0s
+
 自社 API の Postman Collection を外部公開して社内外の開発者の生産性をあげていく
 https://qiita.com/jrsyo/items/302b76a40ddc4a695900
 
