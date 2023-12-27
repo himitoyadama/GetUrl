@@ -1,4 +1,7 @@
 # GetUrl
+【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！
+https://m.youtube.com/watch?v=CV0mTZNoLXQ
+
 初めてのNode.js入門！環境構築からWebサーバーを作ってみよう！
 https://www.youtube.com/watch?v=nSXnif14lVo
 
