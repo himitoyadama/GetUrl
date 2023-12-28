@@ -1,4 +1,7 @@
 # GetUrl
+【React入門】完全初心者OK！１から簡単なTodoアプリを作ってReactの１歩を踏み出してみよう ~Reactチュートリアル~
+https://m.youtube.com/watch?v=nRCNL9T3J98
+
 スマレジ Developers プラットフォームAPIを使ったアプリ開発方法を伝授！
 https://m.youtube.com/watch?v=aEVP-y0ZHYI
 
