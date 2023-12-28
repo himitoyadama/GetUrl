@@ -1,4 +1,7 @@
 # GetUrl
+【スマレジアプリを作ってみた#1】アプリの登録とPostman設定
+https://qiita.com/JoBins/items/d485e1afa5687eef18ca
+
 【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！
 https://m.youtube.com/watch?v=CV0mTZNoLXQ
 
