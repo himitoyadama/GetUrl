@@ -5,6 +5,9 @@ https://www.npmjs.com/package/express-handlebars
 Node.jsとMySQLを連携させて画像アップロードアプリを作ってみよう
 https://m.youtube.com/watch?v=qU2-vnx0t8s
 
+初めてのNode.js入門！環境構築からWebサーバーを作ってみよう！ 
+https://www.youtube.com/watch?v=nSXnif14lVo
+
 【React入門】完全初心者OK！１から簡単なTodoアプリを作ってReactの１歩を踏み出してみよう ~Reactチュートリアル~
 https://m.youtube.com/watch?v=nRCNL9T3J98
 
@@ -16,9 +19,6 @@ https://qiita.com/JoBins/items/d485e1afa5687eef18ca
 
 【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！
 https://m.youtube.com/watch?v=CV0mTZNoLXQ
-
-初めてのNode.js入門！環境構築からWebサーバーを作ってみよう！
-https://www.youtube.com/watch?v=nSXnif14lVo
 
 LibreOfficeの使い方｜ダウンロードからCalcの基本操作
 https://m.youtube.com/watch?v=E6sD6BGuc7M
