@@ -1,4 +1,7 @@
 # GetUrl
+【Express入門】Node.jsでWebアプリケーションの作り方を１から学ぼう！
+https://m.youtube.com/watch?v=Zk7tpzaKv0U
+
 Express Handlebars
 https://www.npmjs.com/package/express-handlebars
 
