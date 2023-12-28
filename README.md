@@ -1,4 +1,7 @@
 # GetUrl
+スマレジ Developers プラットフォームAPIを使ったアプリ開発方法を伝授！
+https://m.youtube.com/watch?v=aEVP-y0ZHYI
+
 【スマレジアプリを作ってみた#1】アプリの登録とPostman設定
 https://qiita.com/JoBins/items/d485e1afa5687eef18ca
 
