@@ -1,4 +1,7 @@
 # GetUrl
+小学生でもわかるWebAPI入門。ゼロからWebAPIを作ってみよう
+https://m.youtube.com/watch?v=6_zIN-bByB4
+
 【Express入門】Node.jsでWebアプリケーションの作り方を１から学ぼう！
 https://m.youtube.com/watch?v=Zk7tpzaKv0U
 
