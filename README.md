@@ -1,4 +1,7 @@
 # GetUrl
+「作成したモバイルアプリを実機で動かす」 - エンバカデロ・デベロッパーTV（2022年5月）
+https://www.youtube.com/watch?v=aIRiwEeukdY
+
 have i been pwned
 https://haveibeenpwned.com/
 
