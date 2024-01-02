@@ -1,4 +1,7 @@
 # GetUrl
+CSSの更新が反映されないときの対処法
+https://m.youtube.com/watch?v=YDh-n_gNKaA
+
 「作成したモバイルアプリを実機で動かす」 - エンバカデロ・デベロッパーTV（2022年5月）
 https://www.youtube.com/watch?v=aIRiwEeukdY
 
