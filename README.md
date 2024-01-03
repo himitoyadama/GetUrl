@@ -1,4 +1,7 @@
 # GetUrl
+webpack 
+https://webpack.js.org/guides/getting-started/
+
 CSSの更新が反映されないときの対処法
 https://m.youtube.com/watch?v=YDh-n_gNKaA
 
