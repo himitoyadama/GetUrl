@@ -1,12 +1,9 @@
 # GetUrl
-webpack 
-https://webpack.js.org/guides/getting-started/
+
 
 CSSの更新が反映されないときの対処法
 https://m.youtube.com/watch?v=YDh-n_gNKaA
 
-「作成したモバイルアプリを実機で動かす」 - エンバカデロ・デベロッパーTV（2022年5月）
-https://www.youtube.com/watch?v=aIRiwEeukdY
 
 have i been pwned
 https://haveibeenpwned.com/
@@ -14,8 +11,6 @@ https://haveibeenpwned.com/
 Phindとは
 https://qiita.com/tsukky67/items/f0689e9b4c73324bb47b
 
-【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！
-https://m.youtube.com/watch?v=CV0mTZNoLXQ
 
 LibreOfficeの使い方｜ダウンロードからCalcの基本操作
 https://m.youtube.com/watch?v=E6sD6BGuc7M
