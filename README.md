@@ -1,5 +1,6 @@
 # GetUrl
-
+【知らなきゃ損】VSCodeで生産性が2倍になる拡張機能（プラグイン）を10選紹介します
+https://m.youtube.com/watch?v=UZ4RE9VSQOo
 
 CSSの更新が反映されないときの対処法
 https://m.youtube.com/watch?v=YDh-n_gNKaA
