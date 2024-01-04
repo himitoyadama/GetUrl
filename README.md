@@ -1,4 +1,7 @@
 # GetUrl
+【超便利】Notionに埋め込められるサービス10選！
+https://m.youtube.com/watch?v=VRJjDFeyPX4
+
 【知らなきゃ損】VSCodeで生産性が2倍になる拡張機能（プラグイン）を10選紹介します
 https://m.youtube.com/watch?v=UZ4RE9VSQOo
 
