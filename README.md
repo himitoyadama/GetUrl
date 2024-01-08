@@ -1,4 +1,16 @@
 # GetUrl
+ngrok 内部ネットワークが外部ネットワーク アクセスにマッピングされる
+https://zhuanlan.zhihu.com/p/75713276
+
+ngrok + nginx + oauth2_proxy + auth0で認証機能を持つWEBアプリを外部公開する
+https://qiita.com/tyariponzu614/items/770e9a7b375b353a0507
+
+oauth2_proxy と Auth0 を用いた Nginx のお手軽 OAuth 化
+https://mikan.github.io/2018/05/23/enable-oauth-to-your-nginx-by-oauth2-proxy-and-auth0/
+
+NGINXとは？
+https://www.nginx.co.jp/resources/glossary/nginx/
+
 【超便利】Notionに埋め込められるサービス10選！
 https://m.youtube.com/watch?v=VRJjDFeyPX4
 
