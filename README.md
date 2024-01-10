@@ -1,4 +1,7 @@
 # GetUrl
+Astroを使って5分でWebサイトを公開までできると知っていましたか？【Astroフレームワークを利用】
+https://www.youtube.com/watch?v=0zvxvmQqoZ0
+
 ngrok 内部ネットワークが外部ネットワーク アクセスにマッピングされる
 https://zhuanlan.zhihu.com/p/75713276
 
