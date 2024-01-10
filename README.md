@@ -1,4 +1,7 @@
 # GetUrl
+AstroとNewtを使ってブログサイトを作ろう
+https://m.youtube.com/watch?v=jk_js7PmW8k
+
 Astroを使って5分でWebサイトを公開までできると知っていましたか？【Astroフレームワークを利用】
 https://www.youtube.com/watch?v=0zvxvmQqoZ0
 
