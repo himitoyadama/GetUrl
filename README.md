@@ -1,4 +1,7 @@
 # GetUrl
+ローカル環境で SSL を有効にする（for XAMPP）
+https://laraweb.net/environment/3722/
+
 phpMyAdmin: Access WordPress MySQL Database without cPanel (only WP login) | 2023 | #WordPress 22
 https://m.youtube.com/watch?v=tVBoN740WRw
 
