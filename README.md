@@ -1,4 +1,9 @@
 # GetUrl
+
+【HubSpot CRMのご紹介】完全無料でご利用いただけるCRM (顧客関係管理) ソフトウェア
+スタートアップでの営業管理「HubSpot」の使い方入門
+https://m.youtube.com/watch?v=PdwETFCK2sE&pp=QAFIAQ%3D%3D
+
 【第105回】「ContactForm7」で顧客情報をリスト化(CSV)する方法「ワードプレス作成講座」「Flamingo」プラグインを導入でお問い合わせ情報はリスト化・CSV一括ダウンロード可能
 https://m.youtube.com/watch?v=WFTClWAOC1Y
 
