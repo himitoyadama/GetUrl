@@ -1,4 +1,6 @@
 # GetUrl
+WordPressでお問い合わせフォームを作るならContactForm7！一緒にプラグインの設定をしましょう！
+https://m.youtube.com/watch?v=8StQTp_AQeU
 
 【HubSpot CRMのご紹介】完全無料でご利用いただけるCRM (顧客関係管理) ソフトウェア
 スタートアップでの営業管理「HubSpot」の使い方入門
