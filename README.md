@@ -1,4 +1,7 @@
 # GetUrl
+【第105回】「ContactForm7」で顧客情報をリスト化(CSV)する方法「ワードプレス作成講座」「Flamingo」プラグインを導入でお問い合わせ情報はリスト化・CSV一括ダウンロード可能
+https://m.youtube.com/watch?v=WFTClWAOC1Y
+
 AstroとNewtを使ってブログサイトを作ろう
 https://m.youtube.com/watch?v=jk_js7PmW8k
 
