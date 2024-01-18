@@ -1,4 +1,7 @@
 # GetUrl
+phpMyAdmin: Access WordPress MySQL Database without cPanel (only WP login) | 2023 | #WordPress 22
+https://m.youtube.com/watch?v=tVBoN740WRw
+
 WordPressでお問い合わせフォームを作るならContactForm7！一緒にプラグインの設定をしましょう！
 https://m.youtube.com/watch?v=8StQTp_AQeU
 
