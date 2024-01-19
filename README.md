@@ -1,4 +1,7 @@
 # GetUrl
+Let's Encryptを使ったSSL証明書の導入手順（CentOS7）【実践】【プログラミング】
+https://www.youtube.com/watch?v=13NTn6WiQvU&list=PLgx8xyH2m7OUWDzW7o6gB6625BXXWgR22
+
 Apache＋OpenSSL SSLサーバ証明書インストール手順
 https://m.youtube.com/watch?v=XBjzIUlBXYU
 
