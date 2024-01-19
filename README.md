@@ -1,4 +1,7 @@
 # GetUrl
+opensslコマンドで証明書情報を確認したい
+https://jp.globalsign.com/support/ssl/confinfo/openssl.html
+
 ローカル環境で SSL を有効にする（for XAMPP）
 https://laraweb.net/environment/3722/
 
