@@ -1,4 +1,7 @@
 # GetUrl
+【Ubuntu+Nginx】Let's EncryptでSSL証明書を発行してhttps通信を行う
+https://qiita.com/shin4488/items/8738e13b92143c88aab6
+
 よくあるEC2サーバにLet's EncryptでSSLを使う方法 2021
 https://qiita.com/rikosu/items/a3fc988bc6caa7918b2e
 
