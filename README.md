@@ -1,4 +1,7 @@
 # GetUrl
+Apache＋OpenSSL SSLサーバ証明書インストール手順
+https://m.youtube.com/watch?v=XBjzIUlBXYU
+
 OpenSSLライブラリの「信頼する認証局の証明書」ファイルの場所はどうやって決まるのか
 https://stupiddog.jp/note/archives/1266#:~:text=OpenSSL%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%81%B4,-%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%83%91%E3%82%B9&text=CA%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE,%E8%A8%AD%E5%AE%9A%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
 
