@@ -1,4 +1,7 @@
 # GetUrl
+よくあるEC2サーバにLet's EncryptでSSLを使う方法 2021
+https://qiita.com/rikosu/items/a3fc988bc6caa7918b2e
+
 実践！サーバー構築　AWSでインスタンスを作成してみよう【プログラミング】
 https://www.youtube.com/watch?v=8WIVI2WcxdQ&t=0s
 
