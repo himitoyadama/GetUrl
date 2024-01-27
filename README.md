@@ -1,4 +1,7 @@
 # GetUrl
+Odoo CRM 
+https://www.odoo.com/app/crm?utm_source=google&utm_medium=cpc&utm_campaign=APAC-EN-CRM_Open-Source-Broad_g_CjwKCAiA8NKtBhBtEiwAq5aX2KvIjeCp-dnK3B4sqyLs-GTuEZ07SiS16ughQlHjtIHsgiD8cB6tLxoCk5AQAvD_BwE&utm_term=open%20source%20crm&utm_gclid=CjwKCAiA8NKtBhBtEiwAq5aX2KvIjeCp-dnK3B4sqyLs-GTuEZ07SiS16ughQlHjtIHsgiD8cB6tLxoCk5AQAvD_BwE&gad_source=1&gclid=CjwKCAiA8NKtBhBtEiwAq5aX2KvIjeCp-dnK3B4sqyLs-GTuEZ07SiS16ughQlHjtIHsgiD8cB6tLxoCk5AQAvD_BwE
+
 【Ubuntu+Nginx】Let's EncryptでSSL証明書を発行してhttps通信を行う
 https://qiita.com/shin4488/items/8738e13b92143c88aab6
 
