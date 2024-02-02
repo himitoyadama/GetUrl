@@ -1,4 +1,7 @@
 # GetUrl
+jQuery入門講座🔰【初心者でも20分で学べるjQueryチュートリアル】
+https://m.youtube.com/watch?v=75ccB4PTVCc
+
 "Apache Webサーバーを作ってみよう！"
 https://eng-entrance.com/apache-web%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81
 
