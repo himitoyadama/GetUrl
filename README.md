@@ -1,4 +1,7 @@
 # GetUrl
+【初心者必見】クラウドワークスとランサーズは稼げない！と言われてる理由と改善策を解説します。【副業】【動画編集】
+https://m.youtube.com/watch?v=2wc9C8vz5aQ
+
 jQuery入門講座🔰【初心者でも20分で学べるjQueryチュートリアル】
 https://m.youtube.com/watch?v=75ccB4PTVCc
 
