@@ -1,6 +1,4 @@
 # GetUrl
-【2023年最新】9割が間違えてるMacの選び方を徹底解説します！【Apple】
-https://m.youtube.com/watch?v=YxYe-qA9SQs
 
 【初心者必見】クラウドワークスとランサーズは稼げない！と言われてる理由と改善策を解説します。【副業】【動画編集】
 https://m.youtube.com/watch?v=2wc9C8vz5aQ
