@@ -1,4 +1,6 @@
 # GetUrl
+【Win10】システムの問題をコマンドプロンプトで確認・修復しよう！
+https://www.sejuku.net/blog/77679
 
 【初心者必見】クラウドワークスとランサーズは稼げない！と言われてる理由と改善策を解説します。【副業】【動画編集】
 https://m.youtube.com/watch?v=2wc9C8vz5aQ
