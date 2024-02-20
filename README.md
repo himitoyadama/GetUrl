@@ -1,4 +1,7 @@
 # GetUrl
+【Windows 10】IPアドレスの設定や変更方法
+https://m.youtube.com/watch?v=9fxYmh7TiwE
+
 【ネットワーク】ipconfigとは？
 https://m.youtube.com/watch?v=a1tWJlDYA70
 
