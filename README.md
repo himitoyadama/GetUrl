@@ -1,4 +1,7 @@
 # GetUrl
+【ネットワーク】ipconfigとは？
+https://m.youtube.com/watch?v=a1tWJlDYA70
+
 【Win10】システムの問題をコマンドプロンプトで確認・修復しよう！
 https://www.sejuku.net/blog/77679
 
