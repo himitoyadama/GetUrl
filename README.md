@@ -1,4 +1,7 @@
 # GetUrl
+【PC作業が爆速に！】作業効率を上げるためのテクニック集！【これで貴方も達人級！】
+https://www.youtube.com/watch?v=EnJPkxO3DgI
+
 【Windows 10】IPアドレスの設定や変更方法
 https://m.youtube.com/watch?v=9fxYmh7TiwE
 
