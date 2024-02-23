@@ -1,4 +1,7 @@
 # GetUrl
+【激速！ファイルエクスプローラーのフォルダ移動＆選択】　これができればショートカットキー脱初心者～その２～
+https://www.youtube.com/watch?v=p6JAZeoptoY
+
 【PC作業が爆速に！】作業効率を上げるためのテクニック集！【これで貴方も達人級！】
 https://www.youtube.com/watch?v=EnJPkxO3DgI
 
