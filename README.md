@@ -1,4 +1,7 @@
 # GetUrl
+【録音アプリ決定版】Androidで音声メモ！2選
+https://m.youtube.com/watch?v=xSoqsBp0iSc
+
 新規テキストを作成するショートカットキー
 https://tenmafujisaki.com/2021/09/20/%E6%96%B0%E8%A6%8F%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88/
 
