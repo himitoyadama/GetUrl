@@ -1,4 +1,7 @@
 # GetUrl
+【マウス不要】アドレスバーに一瞬で移動できるショートカットキーが超便利！【Alt＋Dを解説】
+https://m.youtube.com/watch?v=qQS6IZMEn2M
+
 Word 【Shiftキー/Ctrlキー＋矢印】を使った範囲選択！マウスを使わずキーボーデで簡単に範囲選択しよう！
 https://m.youtube.com/watch?time_continue=1&v=_Db3hP7fLmM&embeds_referring_euri=https%3A%2F%2Fnagomi-channel.com%2Fcharacter-selection%2F&source_ve_path=Mjg2NjY&feature=emb_logo
 
