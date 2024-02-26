@@ -1,4 +1,7 @@
 # GetUrl
+Word 【Shiftキー/Ctrlキー＋矢印】を使った範囲選択！マウスを使わずキーボーデで簡単に範囲選択しよう！
+https://m.youtube.com/watch?time_continue=1&v=_Db3hP7fLmM&embeds_referring_euri=https%3A%2F%2Fnagomi-channel.com%2Fcharacter-selection%2F&source_ve_path=Mjg2NjY&feature=emb_logo
+
 【録音アプリ決定版】Androidで音声メモ！2選
 https://m.youtube.com/watch?v=xSoqsBp0iSc
 
