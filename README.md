@@ -1,4 +1,7 @@
 # GetUrl
+デベロッパーツールのショートカット
+https://gihyo.jp/dev/feature/01/devtools/0002
+
 【マウス不要】アドレスバーに一瞬で移動できるショートカットキーが超便利！【Alt＋Dを解説】
 https://m.youtube.com/watch?v=qQS6IZMEn2M
 
