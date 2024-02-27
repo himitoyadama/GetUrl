@@ -1,4 +1,7 @@
 # GetUrl
+Chrome のキーボード ショートカット
+https://support.google.com/chrome/answer/157179?hl=ja&co=GENIE.Platform%3DDesktop#zippy=%2C%E3%82%BF%E3%83%96%E3%81%A8%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88
+
 デベロッパーツールのショートカット
 https://gihyo.jp/dev/feature/01/devtools/0002
 
