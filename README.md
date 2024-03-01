@@ -1,4 +1,7 @@
 # GetUrl
+タッチタイピングをおぼえよう！　
+https://happylilac.net/sy-keyboard03.html
+
 【偽セキュリティ警告】電話をしてはいけない！【解決する手順】
 https://m.youtube.com/watch?v=2jeHk9qL6E4
 
