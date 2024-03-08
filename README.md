@@ -1,4 +1,7 @@
 # GetUrl
+【初心者向けIT勉強会】　systeminfoとは？
+https://m.youtube.com/watch?v=jTk0m_K07ZY
+
 タッチタイピングをおぼえよう！　
 https://happylilac.net/sy-keyboard03.html
 
