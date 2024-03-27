@@ -1,4 +1,7 @@
 # GetUrl
+たった17行のコードで音声自動文字起こしを実装する
+https://qiita.com/kolife/items/a0af7702eef05994fbfb
+
 【登録不要で簡単安心】無料の VPN！ Warpは超高速で通信量制限なし。Wndows・iPhone・android等対応【大手CloudFlare提供】
 https://m.youtube.com/watch?v=3N419g6soYA
 
