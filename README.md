@@ -1,4 +1,7 @@
 # GetUrl
+ネットワークスキャナーツール Liteの通信ポートを開放する方法
+https://jp.sharp/business/print/support/faq/answer/faq01672.html#chapter3
+
 たった17行のコードで音声自動文字起こしを実装する
 https://qiita.com/kolife/items/a0af7702eef05994fbfb
 
