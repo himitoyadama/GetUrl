@@ -1,4 +1,7 @@
 # GetUrl
+ハッカーになりたい高校生が最初にやるべきこと。
+https://m.youtube.com/watch?v=TKtv4HhqdqU
+
 SQLインジェクション【サイバー攻撃＆対策】【分かりやすい解説シリーズ #60】【プログラミング】
 https://m.youtube.com/watch?v=CfUn6hHrj8Q
 
