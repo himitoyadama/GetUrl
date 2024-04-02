@@ -1,4 +1,7 @@
 # GetUrl
+【Webの隠れたページの見つけ方！】Gobusterでハッキング出来そうなファイルやディレクトリを探す方法！
+https://m.youtube.com/watch?v=Ogogf4HM81g
+
 ネットワークスキャナーツール Liteの通信ポートを開放する方法
 https://jp.sharp/business/print/support/faq/answer/faq01672.html#chapter3
 
