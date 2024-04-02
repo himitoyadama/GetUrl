@@ -1,4 +1,7 @@
 # GetUrl
+SQLインジェクション【サイバー攻撃＆対策】【分かりやすい解説シリーズ #60】【プログラミング】
+https://m.youtube.com/watch?v=CfUn6hHrj8Q
+
 【Webの隠れたページの見つけ方！】Gobusterでハッキング出来そうなファイルやディレクトリを探す方法！
 https://m.youtube.com/watch?v=Ogogf4HM81g
 
