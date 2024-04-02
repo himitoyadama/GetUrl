@@ -1,4 +1,7 @@
 # GetUrl
+98%の人が勘違いしている英会話ができない理由を徹底解説！
+https://m.youtube.com/watch?v=N4HulD8dNuU
+
 ハッカーになりたい高校生が最初にやるべきこと。
 https://m.youtube.com/watch?v=TKtv4HhqdqU
 
