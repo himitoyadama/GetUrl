@@ -1,4 +1,7 @@
 # GetUrl
+Linux command
+https://lym.readthedocs.io/en/latest/index.html
+
 98%の人が勘違いしている英会話ができない理由を徹底解説！
 https://m.youtube.com/watch?v=N4HulD8dNuU
 
