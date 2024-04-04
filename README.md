@@ -1,4 +1,7 @@
 # GetUrl
+【基礎の基礎から分かる！】Linuxコマンド超入門
+https://m.youtube.com/watch?v=Tv_fcDTTsNc
+
 Linux command
 https://lym.readthedocs.io/en/latest/index.html
 
