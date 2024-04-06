@@ -1,4 +1,7 @@
 # GetUrl
+What is FTP? | Explained
+https://m.youtube.com/watch?v=HI0Oh4NJqcI
+
 【基礎の基礎から分かる！】Linuxコマンド超入門
 https://m.youtube.com/watch?v=Tv_fcDTTsNc
 
