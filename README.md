@@ -1,4 +1,7 @@
 # GetUrl
+瞬間英作文！日本語の文章を英訳するときのコツ！
+https://m.youtube.com/watch?v=jK9B9H6AfH8
+
 What is FTP? | Explained
 https://m.youtube.com/watch?v=HI0Oh4NJqcI
 
