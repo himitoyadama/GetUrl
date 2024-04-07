@@ -1,4 +1,7 @@
 # GetUrl
+日本語の長文を簡単に英訳するコツを教えます！
+https://m.youtube.com/watch?v=Lkc-ktZsaw0
+
 瞬間英作文！日本語の文章を英訳するときのコツ！
 https://m.youtube.com/watch?v=jK9B9H6AfH8
 
