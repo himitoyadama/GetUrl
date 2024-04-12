@@ -1,4 +1,7 @@
 # GetUrl
+Kali Linux Tutorial 2022 | Kali Linux For Beginners | Learn Kali Linux | Ethical Hacking|Simplilearn
+https://m.youtube.com/watch?v=M3JhyWh1HgQ
+
 How To Become A Hacker In 2023 | Step By Step Guide For Beginners
 https://m.youtube.com/watch?v=k8VQQZ7q6zU
 
