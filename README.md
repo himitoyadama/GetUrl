@@ -1,4 +1,7 @@
 # GetUrl
+How To Become A Hacker In 2023 | Step By Step Guide For Beginners
+https://m.youtube.com/watch?v=k8VQQZ7q6zU
+
 シャットダウン時にprogrammanagerと表示される
 https://answers.microsoft.com/ja-jp/windows/forum/all/%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%83%80/3851ac53-a33e-4a32-80bd-03743c783a45
 
