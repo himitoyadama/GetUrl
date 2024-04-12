@@ -1,4 +1,7 @@
 # GetUrl
+how to build a HACKING lab (to become a hacker)
+https://m.youtube.com/watch?v=mvsiuLzpx2E
+
 Kali Linux Tutorial 2022 | Kali Linux For Beginners | Learn Kali Linux | Ethical Hacking|Simplilearn
 https://m.youtube.com/watch?v=M3JhyWh1HgQ
 
