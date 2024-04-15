@@ -1,4 +1,7 @@
 # GetUrl
+「salary」サラリー、給料：Lの次に英語のR？？(No.304)
+https://m.youtube.com/watch?v=KUpx1Bw-N2s
+
 【初公開】東大生の僕が今まで使った英語リスニング教材を全て公開します
 https://m.youtube.com/watch?v=8uooZnOd5z0
 
