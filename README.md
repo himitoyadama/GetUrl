@@ -1,4 +1,7 @@
 # GetUrl
+【英語発音完全ガイド】学校では教わらない発音上達法／YouTuberだいじろーが解説／初中級者必見 まずは母音を攻略せよ／盆踊りのリズムを捨てろ／エミネムも歌える【ENGLISH SKILL SET】
+https://m.youtube.com/watch?v=o6ARRGrW3BA&t=0s
+
 「salary」サラリー、給料：Lの次に英語のR？？(No.304)
 https://m.youtube.com/watch?v=KUpx1Bw-N2s
 
