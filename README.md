@@ -1,6 +1,5 @@
 # GetUrl
 
-https://www.ask-books.com/978-4-86639-522-7/
 
 日本と海外のプログラマーの違いを比較してみた
 https://m.youtube.com/watch?v=u1OyelvNqM0
