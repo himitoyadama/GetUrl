@@ -1,6 +1,6 @@
 # GetUrl
 
-https://www.chikumashobo.co.jp/special/Eigo_no_Hanon/1/
+
 
 https://www.virtualbox.org/wiki/Downloads
 
@@ -186,15 +186,7 @@ https://m.youtube.com/watch?v=YDh-n_gNKaA
 have i been pwned
 https://haveibeenpwned.com/
 
-Phindとは
-https://qiita.com/tsukky67/items/f0689e9b4c73324bb47b
 
-
-LibreOfficeの使い方｜ダウンロードからCalcの基本操作
-https://m.youtube.com/watch?v=E6sD6BGuc7M
-
-LibreOffice Calc
-https://m.youtube.com/watch?v=L_t4g32i0B4&t=0s
 
 自社 API の Postman Collection を外部公開して社内外の開発者の生産性をあげていく
 https://qiita.com/jrsyo/items/302b76a40ddc4a695900
@@ -370,8 +362,6 @@ https://m.youtube.com/watch?v=-iwOZR4Qpzk
 NServiceKit OrmLite/データベースに接続する
 https://monobook.org/wiki/NServiceKit_OrmLite/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B
 
-からやま
-https://www.arclandservice.co.jp/karayama/
 
 DATA INSERTION IN MYSQL IN C# VISUAL STUDIO 2022 | C# SAVE DATA IN MYSQL DATABASE
 https://www.youtube.com/watch?v=mWGUcasaQcE
@@ -466,8 +456,6 @@ https://www.youtube.com/watch?v=zy11QSO8Tek
 Express のアプリケーション生成プログラム
 https://expressjs.com/ja/starter/generator.html
 
-ngrokとは
-https://qiita.com/mininobu/items/b45dbc70faedf30f484e
 
 Notionデータベース初級編🔰 公認コンサルタントが徹底解説。
 https://m.youtube.com/watch?time_continue=2&v=iSCECFq1jRU&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Dja-JP%26ram_mb%3D3463%26aos%3D9%26ampcct%3D6045%26lns_as%3D1%26qsubts%3D1700547603981%26cs%3D0%26q%3DNotion%25E3%2583%2587%25E3%2583%25&source_ve_path=Mjg2NjY&feature=emb_logo
@@ -509,7 +497,6 @@ WindowsでMacを使うためには、VMwareやVirtualBoxなどの仮想化ソフ
 (6) 【2023年】Mac向け仮想化ソフトのおすすめ3製品を徹底比較 .... https://www.itreview.jp/categories/virtualization-for-mac.
 (7) macOSをWindowsパソコンにインストールする方法 (画像あり .... https://www.wikihow.jp/macOS%E3%82%92Windows%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B.
 
-VMware Workstation Player
-https://www.vmware.com/jp/products/workstation-player.html
+
 
 
