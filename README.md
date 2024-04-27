@@ -1,6 +1,7 @@
 # GetUrl
 
-
+英語の発音記号の入力方法を詳しく解説
+https://www.grants-for-school.net/phonetic_symbols.html
 
 https://www.virtualbox.org/wiki/Downloads
 
