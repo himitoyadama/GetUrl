@@ -1,4 +1,6 @@
 # GetUrl
+たった１分でネット速度を快適にする裏技を紹介！【超便利】
+https://www.youtube.com/watch?v=gUp-cnBQnn8
 
 英語の発音記号の入力方法を詳しく解説
 https://www.grants-for-school.net/phonetic_symbols.html
