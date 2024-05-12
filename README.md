@@ -2,6 +2,9 @@
 たった１分でネット速度を快適にする裏技を紹介！【超便利】
 https://www.youtube.com/watch?v=gUp-cnBQnn8
 
+最短１分！スマホの写真・動画をパソコンに移す方法。ファイルの転送・取り込み（iphone・Android）【音速パソコン教室】
+https://m.youtube.com/watch?v=HO09U8ytMoc&feature=youtu.be
+
 英語の発音記号の入力方法を詳しく解説
 https://www.grants-for-school.net/phonetic_symbols.html
 
