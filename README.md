@@ -2,6 +2,9 @@
 たった１分でネット速度を快適にする裏技を紹介！【超便利】
 https://www.youtube.com/watch?v=gUp-cnBQnn8
 
+ColorZilla
+https://www.colorzilla.com/ja/chrome/welcome/updated/?chrome/125.0.0.0/4.0/4.1
+
 最短１分！スマホの写真・動画をパソコンに移す方法。ファイルの転送・取り込み（iphone・Android）【音速パソコン教室】
 https://m.youtube.com/watch?v=HO09U8ytMoc&feature=youtu.be
 
