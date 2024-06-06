@@ -1,4 +1,7 @@
 # GetUrl
+ゲーミングPCの買い替えや手放すときは要注意！ゲームデータ引継ぎのポイントを解説
+https://m.youtube.com/watch?v=iY3xpitPLcM
+
 たった１分でネット速度を快適にする裏技を紹介！【超便利】
 https://www.youtube.com/watch?v=gUp-cnBQnn8
 
